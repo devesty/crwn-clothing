@@ -35,7 +35,6 @@ componentDidMount() {
           }
         }
         );
-        console.log(this.state);
       });
       
     }
